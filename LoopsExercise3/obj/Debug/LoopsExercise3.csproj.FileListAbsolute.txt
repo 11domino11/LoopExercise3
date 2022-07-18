@@ -1,0 +1,8 @@
+C:\Users\Damion\source\repos\LoopsExercise3\LoopsExercise3\bin\Debug\LoopsExercise3.exe.config
+C:\Users\Damion\source\repos\LoopsExercise3\LoopsExercise3\bin\Debug\LoopsExercise3.exe
+C:\Users\Damion\source\repos\LoopsExercise3\LoopsExercise3\bin\Debug\LoopsExercise3.pdb
+C:\Users\Damion\source\repos\LoopsExercise3\LoopsExercise3\obj\Debug\LoopsExercise3.csproj.AssemblyReference.cache
+C:\Users\Damion\source\repos\LoopsExercise3\LoopsExercise3\obj\Debug\LoopsExercise3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damion\source\repos\LoopsExercise3\LoopsExercise3\obj\Debug\LoopsExercise3.csproj.CoreCompileInputs.cache
+C:\Users\Damion\source\repos\LoopsExercise3\LoopsExercise3\obj\Debug\LoopsExercise3.exe
+C:\Users\Damion\source\repos\LoopsExercise3\LoopsExercise3\obj\Debug\LoopsExercise3.pdb
